@@ -80,7 +80,7 @@
   <param name="API_KEY_FOR_ANDROID" value="C3:AE:0F:2B:38:E6:E7:31:78:8D:0C:CA:63:3C:12:24:5F:5E:A3:89" />
     </gap:plugin>
  -->
-    <plugin name="plugin.google.maps.menusito" spec="1.2.5" source="pgb" version="1.2.5">
+    <plugin name="plugin.google.maps.menusito" source="pgb" version="1.2.5">
     <param name="API_KEY_FOR_ANDROID" value="C3:AE:0F:2B:38:E6:E7:31:78:8D:0C:CA:63:3C:12:24:5F:5E:A3:89" />
 </plugin>    
 
