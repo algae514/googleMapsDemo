@@ -76,7 +76,7 @@
     <gap:splash gap:platform="winphone" src="www/res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
 
-    <gap:plugin name="phonegap-googlemaps-plugin" source="npm" >
+    <gap:plugin name="phonegap-googlemaps-plugin" >
   <param name="API_KEY_FOR_ANDROID" value="C3:AE:0F:2B:38:E6:E7:31:78:8D:0C:CA:63:3C:12:24:5F:5E:A3:89" />
     </gap:plugin>
 
