@@ -25,11 +25,6 @@
     <preference name="disable-cursor" value="false" />
     <preference name="android-minSdkVersion" value="15" />
     <preference name="android-installLocation" value="auto" />
-    
-    <config-file platform="android" parent="/manifest">
-    <uses-sdk tools:overrideLibrary="org.apache.cordova,com.library.plugin" />
-</config-file>
-
 
     
     
@@ -80,10 +75,6 @@
     <gap:splash gap:platform="ios" height="768" src="www/res/screen/ios/screen-ipad-landscape.png" width="1024" />
     <gap:splash gap:platform="winphone" src="www/res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
-
-    <gap:plugin name="cordova-plugin-googlemaps" source="npm" >
-  <param name="API_KEY_FOR_ANDROID" value="601672273692-04f91j74t0g7lct6tksmgbbmc5m6j1c9.apps.googleusercontent.com" />
-    </gap:plugin>
 
 
     
