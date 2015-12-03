@@ -77,7 +77,7 @@
     <access origin="*" />
 
     <gap:plugin name="cordova-plugin-googlemaps" source="npm" >
-  <param name="REVERSED_CLIENT_ID" value="601672273692-04f91j74t0g7lct6tksmgbbmc5m6j1c9.apps.googleusercontent.com" />
+  <param name="API_KEY_FOR_ANDROID" value="601672273692-04f91j74t0g7lct6tksmgbbmc5m6j1c9.apps.googleusercontent.com" />
 </gap:plugin>
 
 
