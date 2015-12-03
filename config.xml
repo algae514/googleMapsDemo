@@ -76,7 +76,7 @@
     <gap:splash gap:platform="winphone" src="www/res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
 
-    <gap:plugin name="cordova-plugin-googlemaps" source="npm"  version="4.0.0">
+    <gap:plugin name="cordova-plugin-googlemaps" source="npm" >
   <param name="REVERSED_CLIENT_ID" value="601672273692-04f91j74t0g7lct6tksmgbbmc5m6j1c9.apps.googleusercontent.com" />
 </gap:plugin>
 
